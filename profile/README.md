@@ -1,8 +1,8 @@
 <div align="center">
 
-# EREBUS LABS
+![Erebus Labs](https://i.imgur.com/GjPUQCs.png)
 
-**The standard they didn't want you to have.**
+# 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐄𝐑𝐂-𝟒𝟓𝟏, 𝐭𝐡𝐞 𝐬𝐭𝐚𝐧𝐝𝐚𝐫𝐝 𝐭𝐡𝐞𝐲 𝐝𝐨𝐧'𝐭 𝐰𝐚𝐧𝐭 𝐲𝐨𝐮 𝐭𝐨 𝐡𝐚𝐯𝐞
 
 ---
 
